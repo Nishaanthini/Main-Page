@@ -1,0 +1,23 @@
+*{
+    font-family: Arial;
+}
+.container{
+    border:none;
+    background-color: rgb(216, 216, 216);
+    margin:50px 100px;
+    padding: 30px;
+
+}
+.container i{
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+}
+.container h1{
+    display: flex;
+    justify-content: center;
+}
+.container p{
+    display: flex;
+    justify-content: center;
+}
